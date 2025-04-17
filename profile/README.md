@@ -1,69 +1,86 @@
-🌞 Florida Solar Energy Center (FSEC) – Overview
+# 🌞 Florida Solar Energy Center (FSEC)
 
-The Florida Solar Energy Center (FSEC) is a nationally recognized research institute of the University of Central Florida (UCF), based in Cocoa, Florida. Since its establishment by the Florida Legislature in 1975, FSEC has led the way in renewable energy and sustainable innovation across the state and nation.
+> *Pioneering Sustainable Energy Solutions Since 1975*
 
-🎯 Mission
+---
 
-FSEC's mission is to:
+## 📍 Overview
 
-Research and develop energy technologies that enhance Florida's and the nation's economy and environment, and to educate the public, students, and practitioners on the results of the research.
+The **Florida Solar Energy Center (FSEC)** is a premier research institute under the **University of Central Florida (UCF)**, located in **Cocoa, Florida**. Established by the Florida Legislature in **1975**, FSEC serves as a leader in energy research with a focus on **renewable energy**, **energy efficiency**, and **sustainable transportation**.
 
-🔬 Research Areas
+---
 
-Backed by nearly 50 years of experience, FSEC’s research focuses on:
+## 🎯 Mission
 
-High-Performance Buildings: Designing and evaluating energy-efficient, sustainable buildings.
+FSEC's mission is:
 
-Solar Technologies: Advancing solar photovoltaic (PV) and solar thermal systems.
+> *To research and develop energy technologies that enhance Florida's and the nation's economy and environment, and to educate the public, students, and practitioners on the results of the research.*
 
-Hydrogen and Fuel Cells: Innovating clean hydrogen energy and fuel cell tech.
+---
 
-Electric Vehicles: Investigating EV systems and smart infrastructure.
+## 🔬 Core Research Areas
 
-Energy Systems and Storage: Enhancing battery storage and grid resilience.
+With nearly 50 years of pioneering work, FSEC focuses on:
 
-K–12 and Continuing Education: Promoting energy literacy and workforce readiness.
+### 🏠 High-Performance Buildings
+- Advancing energy-efficient and sustainable building practices.
 
-🏗️ Facilities
+### ☀️ Solar Technologies
+- Researching and testing photovoltaic and solar thermal systems.
 
-The 20-acre FSEC campus supports a range of cutting-edge facilities:
+### ⚗️ Hydrogen and Fuel Cells
+- Innovating clean hydrogen production and fuel cell technology.
 
-Hydrogen and Fuel Cell Labs: Exploring hydrogen generation, storage, and applications.
+### 🚗 Electric Vehicles
+- Investigating EV integration and smart grid infrastructure.
 
-Photovoltaic Testing Labs: Evaluating solar module performance and durability.
+### 🔋 Energy Systems and Storage
+- Enhancing storage systems and improving energy resilience.
 
-Building Science and Thermal Labs: Analyzing energy dynamics in built environments.
+### 🎓 Energy Education
+- Empowering K–12 students and professionals with energy literacy and training programs.
 
-Flexible Residential Test Facility: Simulating and testing real-world home energy systems.
+---
 
-📚 Education & Outreach
+## 🧪 Research Facilities
 
-FSEC’s outreach efforts include:
+The 20-acre campus includes cutting-edge labs and facilities:
 
-SunSmart E-Shelter Program: Solar installations on schools for use during emergencies and as learning tools.
+- **Hydrogen & Fuel Cell Labs**: Researching hydrogen technologies.
+- **Photovoltaic Testing Labs**: Evaluating solar panel performance and durability.
+- **Building Science Labs**: Studying thermal behavior and efficiency of buildings.
+- **Flexible Residential Test Facility**: Simulating real-world residential energy usage.
 
-Professional Development: Training programs for energy auditors, building scientists, and more.
+---
 
-K–12 Curriculum: Hands-on STEM resources and classroom activities to promote energy education.
+## 📚 Education & Community Outreach
 
-🤝 Collaborations & Funding
+FSEC is dedicated to education and engagement:
 
-FSEC works in partnership with:
+- **SunSmart E-Shelter Program**: Installing PV systems on schools for emergency use and education.
+- **Professional Development**: Offering courses for energy auditors and building professionals.
+- **STEM K–12 Curriculum**: Providing hands-on learning tools and classroom resources.
 
-Government agencies (e.g., DOE, NREL)
+---
 
-Industry leaders and utilities
+## 🤝 Partnerships & Funding
 
-Nonprofits and academic partners
+### 🧩 Collaborators
+FSEC partners with:
+- **Government Agencies**: Including the U.S. Department of Energy and national labs.
+- **Industry & Utilities**: For applied research and pilot projects.
+- **Academic & Nonprofit Sectors**: For joint studies and outreach.
 
-Funding includes:
+### 💰 Funding Overview
+- **$6–12 million** in competitive research grants per year.
+- **$3 million** in operational funding annually.
 
-$6–12 million annually in research grants
+---
 
-$3 million in annual operational funding
+## 🔗 Learn More
 
-🔗 Learn More
+Explore more about FSEC at the official website:
+👉 [FSEC Website](https://www.fsec.ucf.edu/)
 
-Visit the FSEC Website for in-depth information, publications, and project highlights.
+> **FSEC® – Florida's front line in energy innovation.**
 
-"FSEC® – Pioneering sustainable energy solutions for a better tomorrow."
